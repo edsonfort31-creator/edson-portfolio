@@ -1,0 +1,17 @@
+{
+  "_nota": "Trechos literais de script/cap04.md (C04-S03 e C04-S04); frases omitidas para caber em ~90 s. Voz PROVISÓRIA (espeak-ng/MBROLA).",
+  "narrStart": 5.0,
+  "outro": 3.0,
+  "cues": [
+    {"id": "c1", "scene": 1, "gap": 0.7, "text": "Vinte anos depois, surge o homem que Roma jamais esqueceria: Aníbal Barca."},
+    {"id": "c2", "scene": 1, "gap": 0.6, "text": "Em 219 a.C., Aníbal ataca Sagunto, cidade aliada de Roma na Hispânia."},
+    {"id": "c3", "scene": 1, "gap": 0.6, "text": "Roma declara guerra."},
+    {"id": "c4", "scene": 1, "gap": 0.9, "text": "E, em vez de esperar o inimigo, Aníbal faz o impensável: reúne um exército de dezenas de milhares de homens, com cavalaria e elefantes de guerra, marcha pela Hispânia e pelo sul da Gália e atravessa os Alpes, no outono de 218 a.C., com a neve já chegando."},
+    {"id": "c5", "scene": 1, "gap": 1.8, "text": "Chega à Itália com muito menos do que partiu. Mas chega."},
+    {"id": "c6", "scene": 2, "gap": 0.7, "text": "Em 216 a.C., Roma reúne a maior força que já havia posto em campo, algo em torno de oitenta mil homens, segundo as fontes antigas, para acabar com a ameaça. É a batalha de Canas."},
+    {"id": "c7", "scene": 2, "gap": 0.6, "text": "Aníbal coloca seu centro, mais fraco, à frente, e deixa as alas fortes nas laterais."},
+    {"id": "c8", "scene": 2, "gap": 0.6, "text": "O centro recua devagar, atraindo os romanos para dentro de um bolsão."},
+    {"id": "c9", "scene": 2, "gap": 0.9, "text": "A cavalaria cartaginesa derrota a romana e fecha o cerco por trás."},
+    {"id": "c10", "scene": 2, "gap": 0.0, "text": "Em poucas horas, dezenas de milhares de romanos morrem. As estimativas antigas passam de cinquenta mil."}
+  ]
+}

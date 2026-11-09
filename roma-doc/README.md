@@ -8,19 +8,27 @@ Documentário histórico de 60 min em português brasileiro. Este diretório con
 |---|---|
 | 1. Planejamento | ✅ concluída (ver `docs/DECISOES.md`) |
 | 2. Roteiro | ✅ **rascunho completo para revisão** (`script/`) |
-| 3. Protótipo (60–90 s) | ⏳ aguardando aprovação do roteiro |
-| 4–6. Produção, finalização | ⏳ |
+| 3. Protótipo (76 s) | ✅ renderizado; **aguardando sua validação** (ver `docs/PROTOTIPO.md`) |
+| 4. Validação | ⏳ sua aprovação |
+| 5–6. Produção, finalização | ⏳ |
 
-Nada foi renderizado ainda. Não existe vídeo, áudio de narração ou mapa neste repositório.
+Só o protótipo de 76 s foi renderizado (`render/`). O documentário completo ainda não existe.
 
 ## Estrutura
 
 ```
-script/    roteiro por capítulo (cap01.md … cap10.md)
-docs/      DECISOES.md, REFERENCIAS.md, LIMITACOES.md
-tools/     check_script.py (valida tempos e ritmo)
+script/       roteiro por capítulo (cap01.md … cap10.md)
+src/          projeto Remotion: scenes/, components/ (mapa, HUD, tática), lib/ (câmera, rota), data/
+tools/        check_script.py, build_mapdata.mjs, proto/ (narração provisória, síntese de áudio)
+public/       fontes, grão, áudio gerado
+audio/        LICENCAS.md (trilha, efeitos, fontes, dados)
+subtitles/    SRT
+render/       scripts e saídas de render
+docs/         DECISOES, PROTOTIPO, REFERENCIAS, LIMITACOES, licencas/
+assets/       dados de origem (Natural Earth)
 ```
-Pastas previstas para as próximas etapas: `narration/`, `maps/`, `src/` (Remotion), `audio/`, `subtitles/`, `assets/`, `render/`.
+
+Para rodar o protótipo: `npm install`, depois ver `render/render_proto.sh`.
 
 ## Formato do roteiro
 

@@ -1,0 +1,180 @@
+{
+ "fps": 30,
+ "totalSec": 75.865,
+ "narrStart": 5.0,
+ "voice": "mb-br3 (provisória)",
+ "cues": [
+  {
+   "id": "c1",
+   "scene": 1,
+   "text": "Vinte anos depois, surge o homem que Roma jamais esqueceria: Aníbal Barca.",
+   "start": 5.0,
+   "end": 9.65
+  },
+  {
+   "id": "c2",
+   "scene": 1,
+   "text": "Em 219 a.C., Aníbal ataca Sagunto, cidade aliada de Roma na Hispânia.",
+   "start": 10.35,
+   "end": 15.698
+  },
+  {
+   "id": "c3",
+   "scene": 1,
+   "text": "Roma declara guerra.",
+   "start": 16.298,
+   "end": 17.737
+  },
+  {
+   "id": "c4",
+   "scene": 1,
+   "text": "E, em vez de esperar o inimigo, Aníbal faz o impensável: reúne um exército de dezenas de milhares de homens, com cavalaria e elefantes de guerra, marcha pela Hispânia e pelo sul da Gália e atravessa os Alpes, no outono de 218 a.C., com a neve já chegando.",
+   "start": 18.337,
+   "end": 32.829
+  },
+  {
+   "id": "c5",
+   "scene": 1,
+   "text": "Chega à Itália com muito menos do que partiu. Mas chega.",
+   "start": 33.729,
+   "end": 37.356
+  },
+  {
+   "id": "c6",
+   "scene": 2,
+   "text": "Em 216 a.C., Roma reúne a maior força que já havia posto em campo, algo em torno de oitenta mil homens, segundo as fontes antigas, para acabar com a ameaça. É a batalha de Canas.",
+   "start": 39.156,
+   "end": 50.385
+  },
+  {
+   "id": "c7",
+   "scene": 2,
+   "text": "Aníbal coloca seu centro, mais fraco, à frente, e deixa as alas fortes nas laterais.",
+   "start": 51.085,
+   "end": 56.545
+  },
+  {
+   "id": "c8",
+   "scene": 2,
+   "text": "O centro recua devagar, atraindo os romanos para dentro de um bolsão.",
+   "start": 57.145,
+   "end": 61.302
+  },
+  {
+   "id": "c9",
+   "scene": 2,
+   "text": "A cavalaria cartaginesa derrota a romana e fecha o cerco por trás.",
+   "start": 61.902,
+   "end": 65.782
+  },
+  {
+   "id": "c10",
+   "scene": 2,
+   "text": "Em poucas horas, dezenas de milhares de romanos morrem. As estimativas antigas passam de cinquenta mil.",
+   "start": 66.682,
+   "end": 72.865
+  }
+ ],
+ "subs": [
+  {
+   "start": 5.0,
+   "end": 9.65,
+   "text": "Vinte anos depois, surge o homem que\nRoma jamais esqueceria: Aníbal Barca."
+  },
+  {
+   "start": 10.35,
+   "end": 15.698,
+   "text": "Em 219 a.C., Aníbal ataca Sagunto,\ncidade aliada de Roma na Hispânia."
+  },
+  {
+   "start": 16.298,
+   "end": 17.737,
+   "text": "Roma declara guerra."
+  },
+  {
+   "start": 18.337,
+   "end": 21.57,
+   "text": "E, em vez de esperar o inimigo, Aníbal\nfaz o impensável:"
+  },
+  {
+   "start": 21.57,
+   "end": 24.515,
+   "text": "reúne um exército de dezenas de milhares\nde homens,"
+  },
+  {
+   "start": 24.515,
+   "end": 26.593,
+   "text": "com cavalaria e elefantes de guerra,"
+  },
+  {
+   "start": 26.593,
+   "end": 30.173,
+   "text": "marcha pela Hispânia e pelo sul da Gália\ne atravessa os Alpes,"
+  },
+  {
+   "start": 30.173,
+   "end": 32.829,
+   "text": "no outono de 218 a.C., com a neve já\nchegando."
+  },
+  {
+   "start": 33.729,
+   "end": 36.697,
+   "text": "Chega à Itália com muito menos do que\npartiu."
+  },
+  {
+   "start": 36.697,
+   "end": 37.356,
+   "text": "Mas chega."
+  },
+  {
+   "start": 39.156,
+   "end": 43.391,
+   "text": "Em 216 a.C., Roma reúne a maior força\nque já havia posto em campo,"
+  },
+  {
+   "start": 43.391,
+   "end": 47.433,
+   "text": "algo em torno de oitenta mil homens,\nsegundo as fontes antigas,"
+  },
+  {
+   "start": 47.433,
+   "end": 49.038,
+   "text": "para acabar com a ameaça."
+  },
+  {
+   "start": 49.038,
+   "end": 50.385,
+   "text": "É a batalha de Canas."
+  },
+  {
+   "start": 51.085,
+   "end": 54.177,
+   "text": "Aníbal coloca seu centro, mais fraco, à\nfrente,"
+  },
+  {
+   "start": 54.177,
+   "end": 56.545,
+   "text": "e deixa as alas fortes nas laterais."
+  },
+  {
+   "start": 57.145,
+   "end": 61.302,
+   "text": "O centro recua devagar, atraindo os\nromanos para dentro de um bolsão."
+  },
+  {
+   "start": 61.902,
+   "end": 65.782,
+   "text": "A cavalaria cartaginesa derrota a romana\ne fecha o cerco por trás."
+  },
+  {
+   "start": 66.682,
+   "end": 70.016,
+   "text": "Em poucas horas, dezenas de milhares de\nromanos morrem."
+  },
+  {
+   "start": 70.016,
+   "end": 72.865,
+   "text": "As estimativas antigas passam de\ncinquenta mil."
+  }
+ ]
+}
